@@ -1,8 +1,20 @@
 body {
     background-image: url("assets/closeup_sunflower.jpg");
-    background-size: auto;
+    background-size: cover;
 }
 
-name {
-    color: navy;
+#header {
+    color: white;
+}
+
+#name {
+    text-align: center;
+    color: white;
+    font-family: Georgia;
+    font-size: 50px;
+}
+
+img {
+    width: 150px;
+    height: 100px;
 }
