@@ -8,18 +8,18 @@ body {
 }
 
 #name {
+    margin-top: 100px;
     text-align: center;
     color: white;
     font-family: Georgia;
     font-size: 50px;
 }
 
-img {
-    display: block;
-    margin: auto;
-    vertical-align: center;
-    width: 150px;
-    height: 100px;
+#content {
+    font-size: 30px;
+    color: rgba(50, 50, 50, 1);
+    margin-top: 25px;
+    text-align: center;
 }
 
 #icons{
@@ -27,7 +27,7 @@ img {
     display: block;
     margin: auto;
     width: 200px;
-    margin-top: 70px;
+    margin-top: 170px;
     float: center;
     position: center;
 }
