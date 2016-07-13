@@ -15,6 +15,24 @@ body {
 }
 
 img {
+    display: block;
+    margin: auto;
+    vertical-align: center;
     width: 150px;
     height: 100px;
+}
+
+#icons{
+    font-size: 40px;
+    display: block;
+    margin: auto;
+    width: 200px;
+    margin-top: 70px;
+    float: center;
+    position: center;
+}
+
+.material-icons.md-64 {
+    font-size: 64px;
+    margin: 15px;
 }
