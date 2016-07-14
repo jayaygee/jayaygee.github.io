@@ -1,6 +1,6 @@
 body {
-    background-image: url("assets/closeup_sunflower.jpg");
     background-size: cover;
+    background-color: rgba(70, 130, 180, 1);
 }
 
 #header {
