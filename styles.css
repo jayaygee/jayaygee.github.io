@@ -1,6 +1,5 @@
 body {
     background-size: cover;
-    /*background-color: rgba(70, 130, 180, 1);*/
     background-image: url("assets/sunrise.jpg");
 }
 
@@ -12,18 +11,18 @@ body {
     margin-top: 100px;
     text-align: center;
     color: white;
-    font-family: Georgia;
+    font-family: Signika;
     font-size: 50px;
 }
 
 #content {
-    background-color: rgba(180, 130, 70, .8);
+    background-color: rgba(122, 122, 122, .8);
     font-size: 30px;
     color: rgba(50, 50, 50, 1);
     padding: 30px;
     margin-top: 30px;
     text-align: center;
-    font-family: Georgia;
+    font-family: Lato;
     width: auto;
 }
 
@@ -32,14 +31,13 @@ body {
     display: block;
     margin: auto;
     width: 400px;
-    margin-top: 100px;
+    margin-top: 80px;
     float: center;
     position: center;
 }
 
 .material-icons.md-64 {
     font-size: 64px;
-    margin: 15px;
 }
 
 .material-icons.md-dark {
