@@ -57,12 +57,20 @@ body {
     color: rgba(0, 0, 0, .85);
 }
 
+span.hide { 
+    display:none; 
+}
+
+span.codedirection { 
+    unicode-bidi:bidi-override; 
+    direction: rtl; 
+}
+
 
 
 
 
 /*add link to icons
-//get better font - check google fonts
 //figure out how to make that my homepage?
 //better background image
 make a second copy for the about page that uses bootstrap and compare

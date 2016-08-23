@@ -1,5 +1,5 @@
 function myFunction() {
-    document.getElementById("icons").style.width = "auto";
+    //document.getElementById("icons").style.width = "auto";
 }
 
 
