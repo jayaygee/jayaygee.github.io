@@ -61,11 +61,6 @@ span.hide {
     display:none; 
 }
 
-span.codedirection { 
-    unicode-bidi:bidi-override; 
-    direction: rtl; 
-}
-
 
 
 
